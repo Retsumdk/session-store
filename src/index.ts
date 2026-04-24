@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 /**
  * session-store - Distributed session store with Redis backend
- * Built with Zo Computer by The BookMaster
  */
 
 import { Command } from "commander";
