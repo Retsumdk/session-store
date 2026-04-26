@@ -31,6 +31,12 @@ bun run src/index.ts --help
 
 Create `config.json` (TypeScript) or `config.yaml` (Python) for custom settings.
 
+## 🔗 Related Repos
+
+- [idempotency-key-manager](https://github.com/Retsumdk/idempotency-key-manager) — Idempotency key storage to prevent duplicate API operations
+- [redis-cache-wrapper](https://github.com/Retsumdk/redis-cache-wrapper) — Redis caching layer for API responses
+- [distributed-lock-manager](https://github.com/Retsumdk/distributed-lock-manager) — Redis-based distributed locks
+
 ## License
 
 MIT License
